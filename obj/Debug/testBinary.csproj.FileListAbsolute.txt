@@ -1,0 +1,13 @@
+C:\Users\admin\Desktop\testBinary\testBinary\bin\Debug\testBinary.exe.config
+C:\Users\admin\Desktop\学习项目\密码工具\二分密码\testBinary\testBinary\bin\Debug\testBinary.exe.config
+C:\Users\admin\Desktop\学习项目\密码工具\二分密码\testBinary\testBinary\bin\Debug\testBinary.exe
+C:\Users\admin\Desktop\学习项目\密码工具\二分密码\testBinary\testBinary\bin\Debug\testBinary.pdb
+C:\Users\admin\Desktop\学习项目\密码工具\二分密码\testBinary\testBinary\obj\Debug\testBinary.csprojResolveAssemblyReference.cache
+C:\Users\admin\Desktop\学习项目\密码工具\二分密码\testBinary\testBinary\obj\Debug\testBinary.exe
+C:\Users\admin\Desktop\学习项目\密码工具\二分密码\testBinary\testBinary\obj\Debug\testBinary.pdb
+C:\Users\admin\Desktop\学习项目\密码工具\二方密码\testBinary\testBinary\bin\Debug\testBinary.exe.config
+C:\Users\admin\Desktop\学习项目\密码工具\二方密码\testBinary\testBinary\obj\Debug\testBinary.exe
+C:\Users\admin\Desktop\学习项目\密码工具\二方密码\testBinary\testBinary\obj\Debug\testBinary.pdb
+C:\Users\admin\Desktop\学习项目\密码工具\二方密码\testBinary\testBinary\bin\Debug\testBinary.exe
+C:\Users\admin\Desktop\学习项目\密码工具\二方密码\testBinary\testBinary\bin\Debug\testBinary.pdb
+C:\Users\admin\Desktop\学习项目\密码工具\二方密码\testBinary\testBinary\obj\Debug\testBinary.csprojResolveAssemblyReference.cache
